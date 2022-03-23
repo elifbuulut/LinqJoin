@@ -43,7 +43,7 @@ namespace LinqJoin
 
 
         }
-        //1) Öncelikle  lazım olanları, kullanacaklarımı bir class içine alıyorum 
+
         class ProductDto //data transfer object
         {
             public int ProductID { get; set; }
